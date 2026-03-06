@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/features/snake/game.test.ts","./src/features/snake/game.ts","./src/pages/snakepage.tsx"],"version":"5.9.3"}
